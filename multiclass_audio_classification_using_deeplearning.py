@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1irWVV9LDn3VXvDy08uvGavgxhcP6gWWX
 """
 
-import kagglehub
+#import kagglehub
 chrisfilo_urbansound8k_path = kagglehub.dataset_download('chrisfilo/urbansound8k')
 
 print('Data source import complete.')
