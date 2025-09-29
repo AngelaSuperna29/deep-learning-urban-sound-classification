@@ -23,8 +23,6 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 
 print('Files are ready to use...')
 
-pip install soundfile librosa
-
 # Commented out IPython magic to ensure Python compatibility.
 import soundfile as sf
 import matplotlib.pyplot as plt
