@@ -1,0 +1,19 @@
+# Core
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+
+# Deep Learning (TensorFlow + Keras)
+tensorflow
+keras
+
+# Audio Processing
+librosa
+soundfile
+pydub
+
+# Visualization
+matplotlib
+seaborn
